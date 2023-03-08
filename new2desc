@@ -1,7 +1,5 @@
 Automation control using a visual grid
-based programming language. Using opcodes
-that you arrange in a grid you can move
-items around, control redstone, check (RF)
-and so on. Networking is also provided.
-
- 
+based programming language. that you arrange 
+you can move items around, control redstone,
+check (RF) and so on.
+Networking is also provided.
